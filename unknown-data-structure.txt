@@ -1,0 +1,8 @@
+I am not fmilar with the following data structure:
+
+Graph Data Structures.
+Fenwick Tree
+Graph Traversal
+MST
+UFDS
+TSP
